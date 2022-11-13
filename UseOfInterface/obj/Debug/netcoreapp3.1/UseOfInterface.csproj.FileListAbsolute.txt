@@ -1,0 +1,27 @@
+C:\Users\atul\source\repos\UseOfInterface\bin\Debug\netcoreapp3.1\UseOfInterface.exe
+C:\Users\atul\source\repos\UseOfInterface\bin\Debug\netcoreapp3.1\UseOfInterface.deps.json
+C:\Users\atul\source\repos\UseOfInterface\bin\Debug\netcoreapp3.1\UseOfInterface.runtimeconfig.json
+C:\Users\atul\source\repos\UseOfInterface\bin\Debug\netcoreapp3.1\UseOfInterface.runtimeconfig.dev.json
+C:\Users\atul\source\repos\UseOfInterface\bin\Debug\netcoreapp3.1\UseOfInterface.dll
+C:\Users\atul\source\repos\UseOfInterface\bin\Debug\netcoreapp3.1\UseOfInterface.pdb
+C:\Users\atul\source\repos\UseOfInterface\obj\Debug\netcoreapp3.1\UseOfInterface.csprojAssemblyReference.cache
+C:\Users\atul\source\repos\UseOfInterface\obj\Debug\netcoreapp3.1\UseOfInterface.AssemblyInfoInputs.cache
+C:\Users\atul\source\repos\UseOfInterface\obj\Debug\netcoreapp3.1\UseOfInterface.AssemblyInfo.cs
+C:\Users\atul\source\repos\UseOfInterface\obj\Debug\netcoreapp3.1\UseOfInterface.csproj.CoreCompileInputs.cache
+C:\Users\atul\source\repos\UseOfInterface\obj\Debug\netcoreapp3.1\UseOfInterface.dll
+C:\Users\atul\source\repos\UseOfInterface\obj\Debug\netcoreapp3.1\UseOfInterface.pdb
+C:\Users\atul\source\repos\UseOfInterface\obj\Debug\netcoreapp3.1\UseOfInterface.genruntimeconfig.cache
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\08 July 2020\Atul Singh Bhandari\UseOfInterface\UseOfInterface\bin\Debug\netcoreapp3.1\UseOfInterface.exe
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\08 July 2020\Atul Singh Bhandari\UseOfInterface\UseOfInterface\bin\Debug\netcoreapp3.1\UseOfInterface.deps.json
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\08 July 2020\Atul Singh Bhandari\UseOfInterface\UseOfInterface\bin\Debug\netcoreapp3.1\UseOfInterface.runtimeconfig.json
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\08 July 2020\Atul Singh Bhandari\UseOfInterface\UseOfInterface\bin\Debug\netcoreapp3.1\UseOfInterface.runtimeconfig.dev.json
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\08 July 2020\Atul Singh Bhandari\UseOfInterface\UseOfInterface\bin\Debug\netcoreapp3.1\UseOfInterface.dll
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\08 July 2020\Atul Singh Bhandari\UseOfInterface\UseOfInterface\bin\Debug\netcoreapp3.1\UseOfInterface.pdb
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\08 July 2020\Atul Singh Bhandari\UseOfInterface\UseOfInterface\obj\Debug\netcoreapp3.1\UseOfInterface.csproj.AssemblyReference.cache
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\08 July 2020\Atul Singh Bhandari\UseOfInterface\UseOfInterface\obj\Debug\netcoreapp3.1\UseOfInterface.GeneratedMSBuildEditorConfig.editorconfig
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\08 July 2020\Atul Singh Bhandari\UseOfInterface\UseOfInterface\obj\Debug\netcoreapp3.1\UseOfInterface.AssemblyInfoInputs.cache
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\08 July 2020\Atul Singh Bhandari\UseOfInterface\UseOfInterface\obj\Debug\netcoreapp3.1\UseOfInterface.AssemblyInfo.cs
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\08 July 2020\Atul Singh Bhandari\UseOfInterface\UseOfInterface\obj\Debug\netcoreapp3.1\UseOfInterface.csproj.CoreCompileInputs.cache
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\08 July 2020\Atul Singh Bhandari\UseOfInterface\UseOfInterface\obj\Debug\netcoreapp3.1\UseOfInterface.dll
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\08 July 2020\Atul Singh Bhandari\UseOfInterface\UseOfInterface\obj\Debug\netcoreapp3.1\UseOfInterface.pdb
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\08 July 2020\Atul Singh Bhandari\UseOfInterface\UseOfInterface\obj\Debug\netcoreapp3.1\UseOfInterface.genruntimeconfig.cache
